@@ -12,6 +12,7 @@ dependencies = [
     "jsonschema[format]>=4.25,<5",
     "mcp>=2,<3",
     "python-dotenv>=1.1,<2",
+    "openai>=1,<2",
 ]
 
 [project.optional-dependencies]
